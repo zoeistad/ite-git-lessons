@@ -10,6 +10,9 @@ git status
 git branch --show-current 
 
 
+# only run it , if you using git for the first time. 
+git config --global user.email "zoeistad@example.com"
+git config --global user.name "zoe-istad"
 
 # to keep track of your code 
 # 1. Working Directory 
